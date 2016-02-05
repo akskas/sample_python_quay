@@ -27,4 +27,3 @@ build:
 
   post_ci:
     - docker push quay.io/shippablequay/sample_py_quay
-
